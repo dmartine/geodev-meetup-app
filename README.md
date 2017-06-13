@@ -20,6 +20,7 @@ This will collect the following information:
 Once you have created an event, you can register attendees using the GeoDev Registration app.
 
 ## GeoDev Registration
+The individual handling the check in will set the event by selecting it from the list of meetups or hackerlabs created via the Event Management app.
 The [GeoDev Registration app](http://edn1.esri.com/meetup/register.html) will then allow people to enter their information (name, company, email, etc.) which will be written to a FeatureTable along with the key to the Meetup Feature.
 
 Once all attendees have been registered, they can be considered for the giveaway using the GeoDev Name Picker.
