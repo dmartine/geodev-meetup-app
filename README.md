@@ -15,7 +15,7 @@ This will collect the following information:
 * Date (by default the timestamp is 12 am to ensure we record the event on the current date)
 * Event Type (e.g., meetup or hackerlab)
 * Voucher Code
-* Location (use can use Search tab to find the address, the Lat/Lon tab or click on the map to add a point)
+* Location (use can use the Search tab to find the address, the Lat/Lon tab or click on the map to add a point)
 
 Once you have created an event, you can register attendees using the GeoDev Registration app.
 
