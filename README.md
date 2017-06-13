@@ -8,7 +8,7 @@ This repository contains all the apps for the GeoDev Meetup and Hackerlab events
 4. An Attendee Viewer app. 
 
 ## Event Management
-Use this [Event Management app]("http://edn1.esri.com/eventmanagement/index.html") to create a new Feature that represents a meetup or hackerlab event.
+Use this [Event Management app](http://edn1.esri.com/eventmanagement/index.html) to create a new Feature that represents a meetup or hackerlab event.
 
 This will collect the following information:
 * Event Name
@@ -22,12 +22,12 @@ Once you have created an event, you can register attendees using the GeoDev Regi
 ## GeoDev Registration
 The individual handling the check in will set the current event.
 
-The [GeoDev Registration app]("http://edn1.esri.com/meetup/register.html") will then allow people to enter their information (name, company, email, etc.) which will be written to a FeatureTable along with the key to the Meetup Feature.
+The [GeoDev Registration app](http://edn1.esri.com/meetup/register.html) will then allow people to enter their information (name, company, email, etc.) which will be written to a FeatureTable along with the key to the Meetup Feature.
 
 Once all attendees have been registered, they can be considered for the giveaway using the GeoDev Name Picker.
 
 ## GeoDev Name Picker
-The [GeoDev Name Picker]("http://edn1.esri.com/meetup/winner.html#") will pick a random attendee at the current meetup. It also allows the removal of attendees in case the winner is not present or cannot attend DevSummit.
+The [GeoDev Name Picker](http://edn1.esri.com/meetup/winner.html#) will pick a random attendee at the current meetup. It also allows the removal of attendees in case the winner is not present or cannot attend DevSummit.
 
 ## Attendee Viewer
-The [Attendee Viewer]("http://edn.maps.arcgis.com/apps/webappviewer/index.html?id=028e1ab825ab4b30bb8dea1bfd4ac5b9") allows the view of all attendees associated with an event using related tables. These records can filtered using a filter expression by the event key (e.g., Tucson GDMU 2017-04-14 or Tucson HL 2017-04-14) and they can also be exported. 
+The [Attendee Viewer](http://edn.maps.arcgis.com/apps/webappviewer/index.html?id=028e1ab825ab4b30bb8dea1bfd4ac5b9) allows the view of all attendees associated with an event using related tables. These records can filtered using a filter expression by the event key (e.g., Tucson GDMU 2017-04-14 or Tucson HL 2017-04-14) and they can also be exported. 
